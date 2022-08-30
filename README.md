@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, ReactJs, Ethical Hacking**
 
-- 💬 Ask me about **Java, Oops, Sql**
+- 💬 Ask me about **Java, Oops, Sql, Maven, Programming**
 
 - 📫 How to reach me **saurabhkumarjha525@gmail.com**
 
