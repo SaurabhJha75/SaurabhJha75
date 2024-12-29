@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh13870416" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh13870416?logo=twitter&style=for-the-badge" alt="saurabh13870416" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Application**
+- 🔭 I’m currently working on **Blogging Application**
 
 - 🌱 I’m currently learning **Spring Boot, ReactJs, Ethical Hacking**
 
